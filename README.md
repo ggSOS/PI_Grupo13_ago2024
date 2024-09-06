@@ -1,4 +1,4 @@
-# :file_cabinet: Web Facul :file_cabinet:
+# :page_with_curl: Web Facul :page_with_curl:
 
 ### :computer::iphone: O Web Facul é um aplicativo que gerencia alunos, interessados e funcionários de qualquer instituição de ensino, desde o contato inicial de interesse, até a conclusão dos cursos. 
 
@@ -7,7 +7,7 @@
 ### :fountain_pen::bulb: Com o Web Facul, será possível manter as informações de clientes, alunos e funcionários centralizadas, para que sua empresa tenha tempo de focar naquilo que mais importa: educar!
 
 
-###:joystick: **Funcionalidades** :joystick::
+### :joystick: **Funcionalidades** :joystick::
 
 **:raising_hand_woman: Usuário Interessado :raising_hand_woman:**:
 - Entrar em contato;
@@ -63,7 +63,7 @@
 
 
 
-### Desenvolvedores:
+### :genie: Desenvolvedores :genie::
 [Aldrin Faustino Pereira]()
 
 [Bruna Martins Pinto](https://github.com/Bmpin)
