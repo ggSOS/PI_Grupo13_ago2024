@@ -72,6 +72,6 @@
 
 [Gustavo Gouvea Soares]()
 
-[Lucas Igor Grigio]()
+[Lucas Igor Grigio](https://github.com/lucasgrigio)
 
 [Thalía Emiliana Alves de Queiroz]()
