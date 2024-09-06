@@ -2,9 +2,9 @@
 
 ### :computer: O Web Facul é um aplicativo que gerencia alunos, interessados e funcionários de qualquer instituição de ensino, desde o contato inicial de interesse, até a conclusão dos cursos. 
 
-### :man_student: :woman_teacher: O Web Facul permite o cadastro de pessoas físicas e jurídicas, incluindo a possibilidade de associar cadastro de empresas contratantes de cursos ao cadastro de alunos, ou, no caso de empresas fornecedoras, dos contatos preferenciais dentro da empresa.
+### :man_student: :woman_teacher: O Web Facul permite o cadastro de pessoas físicas e jurídicas, para incluir casos de empresas que contratam cursos para seus funcionários, ou para funcionários contratados como pessoa jurídica.
 
-### :fountain_pen: :bulb: Com o Web Facul, será possível manter as informações de clientes, alunos e fornecedores centralizadas, para que sua empresa tenha tempo de focar naquilo que mais importa: educar!
+### :fountain_pen::bulb: Com o Web Facul, será possível manter as informações de clientes, alunos e funcionários centralizadas, para que sua empresa tenha tempo de focar naquilo que mais importa: educar!
 
 
 ### **Funcionalidades**:
@@ -64,9 +64,9 @@
 
 
 ### Desenvolvedores:
-<a href="LINK" target="_blank">Aldrin Faustino Pereira
-<a href="https://github.com/Bmpin" target="_blank">Bruna Martins Pinto
-<a href="LINK" target="_blank">Diego Oliveira Souza
-<a href="LINK" target="_blank">Gustavo Gouvea Soares
-<a href="LINK" target="_blank">Lucas Igor Grigio
-<a href="LINK" target="_blank">Thalía Emiliana Alves de Queiroz
+[Aldrin Faustino Pereira]()
+[Bruna Martins Pinto](https://github.com/Bmpin)
+[Diego Oliveira Souza]()
+[Gustavo Gouvea Soares]()
+[Lucas Igor Grigio] ()
+[Thalía Emiliana Alves de Queiroz]()
