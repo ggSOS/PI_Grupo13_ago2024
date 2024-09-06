@@ -7,15 +7,15 @@
 ### :fountain_pen::bulb: Com o Web Facul, será possível manter as informações de clientes, alunos e funcionários centralizadas, para que sua empresa tenha tempo de focar naquilo que mais importa: educar!
 
 
-### :joystick: **Funcionalidades** :joystick::
+### :joystick: **Funcionalidades:**
 
-**:raising_hand_woman: Usuário Interessado :raising_hand_woman:**:
+**:raising_hand_woman: Usuário Interessado:**
 - Entrar em contato;
 - Realizar cadastro parcial;
 - Efetuar matrícula;
 - Alterar dados cadastrais.
 
-**:man_student: Aluno :man_student:**: 
+**:man_student: Aluno:** 
 - Alterar dados cadastrais;
 - Estudar matérias;
 - Realizar provas;
@@ -23,14 +23,14 @@
 
 
 
-**:teacher: Professor :teacher:**:
+**:teacher: Professor:**
 - Lecionar matérias;
 - Realizar projetos;
 - Acompanhar desempenho dos alunos;
 - Aplicar provas;
 - Aplicar provas de recuperação.
 
-**:office_worker: Atendente :office_worker:**:
+**:office_worker: Atendente :**
 - Responder aos contatos dos interessados;
 - Negociar valores;
 - Visualizar perfis;
@@ -63,7 +63,7 @@
 
 
 
-### :genie: Desenvolvedores :genie::
+### :genie: Desenvolvedores:
 [Aldrin Faustino Pereira]()
 
 [Bruna Martins Pinto](https://github.com/Bmpin)
