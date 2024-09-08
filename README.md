@@ -64,7 +64,7 @@
 
 
 ### :genie: Desenvolvedores:
-[Aldrin Faustino Pereira]()
+[Aldrin Faustino Pereira](https://github.com/Aldrin-Faustino)
 
 [Bruna Martins Pinto](https://github.com/Bmpin)
 
