@@ -43,13 +43,13 @@
 
 ![Diagrama MER]()
 
-### **Diagrama de classe**:
+📜 **Diagrama de classe**:
 ![Diagrama de classe](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/main/Diagrama%20de%20classe.jpg)
 
-### **Diagrama de casos de uso 1 - Cadastro do Cliente**:
+📜 **Diagrama de casos de uso 1 - Cadastro do Cliente**:
 ![Diagrama de casos de uso 1](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/main/Diagrama%20de%20caso%20de%20uso%201%20-%20%20Cadastro%20de%20cliente.jpg)
 
-### **Diagrama de casos de uso 2 - Aproveitamento dos Estudos**:
+📜 **Diagrama de casos de uso 2 - Aproveitamento dos Estudos**:
 ![Diagrama de casos de uso 2](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/main/Diagrama%20de%20caso%20de%20uso%202%20-%20Aproveitamento%20dos%20estudos.jpg)
 
  ### **Tela YYYYY** :
