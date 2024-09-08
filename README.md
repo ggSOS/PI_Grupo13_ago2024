@@ -1,10 +1,10 @@
-# :page_with_curl: Web Facul :page_with_curl:
+# :page_with_curl: EducaPro :page_with_curl:
 
-### :computer::iphone: O Web Facul é um aplicativo que gerencia alunos, interessados e funcionários de qualquer instituição de ensino, desde o contato inicial de interesse, até a conclusão dos cursos. 
+### :computer::iphone: O EducaPro é um aplicativo que gerencia alunos, interessados e funcionários de qualquer instituição de ensino, desde o contato inicial de interesse, até a conclusão dos cursos. 
 
-### :man_student::woman_teacher: O Web Facul permite o cadastro de pessoas físicas e jurídicas, para incluir casos de empresas que contratam cursos para seus colaboradores, ou para funcionários contratados como pessoa jurídica.
+### :man_student::woman_teacher: O EducaPro permite o cadastro de pessoas físicas e jurídicas, para incluir casos de empresas que contratam cursos para seus colaboradores, ou para funcionários contratados como pessoa jurídica.
 
-### :fountain_pen::bulb: Com o Web Facul, será possível manter as informações de clientes, alunos e funcionários centralizadas, para que sua empresa tenha tempo de focar naquilo que mais importa: educar!
+### :fountain_pen::bulb: Com o EducaPro, será possível manter as informações de clientes, alunos e funcionários centralizadas, para que sua empresa tenha tempo de focar naquilo que mais importa: educar!
 
 
 ### :joystick: **Funcionalidades:**
@@ -74,4 +74,4 @@
 
 [Lucas Igor Grigio](https://github.com/lucasgrigio)
 
-[Thalía Emiliana Alves de Queiroz]()
+[Thalía Emiliana Alves de Queiroz](https://github.com/thalivola)
