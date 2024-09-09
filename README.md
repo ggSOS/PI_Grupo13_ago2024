@@ -50,8 +50,9 @@
 :page_with_curl:**Diagrama de casos de uso 2 - Aproveitamento dos Estudos**:
 ![Diagrama de casos de uso 2](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/main/Diagrama%20de%20caso%20de%20uso%202%20-%20Aproveitamento%20dos%20estudos.jpg)
 
- ### **Tela YYYYY** :
-![Tela YYYYY]()
+ ### **Telas** :
+![Tela de Cadastro](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/main/Cadastro.png?raw=true)
+
 
  ### **Tela YYYYY** :
 ![Tela YYYYY]()
