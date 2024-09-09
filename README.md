@@ -88,7 +88,7 @@
 
 [Diego Oliveira Souza]()
 
-[Gustavo Gouvea Soares]()
+[Gustavo Gouvêa Soares](https://github.com/ggSOS)
 
 [Lucas Igor Grigio](https://github.com/lucasgrigio)
 
