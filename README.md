@@ -51,15 +51,34 @@
 ![Diagrama de casos de uso 2](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/main/Diagrama%20de%20caso%20de%20uso%202%20-%20Aproveitamento%20dos%20estudos.jpg)
 
  ### **Telas** :
-![Tela de Cadastro](https://github.com/Bmpin/PI_Grupo13_ago2024/blob/main/Cadastro.png?raw=true)
+ 
+:page_with_curl:**Pagina Inicial**:
 
+![image](https://github.com/user-attachments/assets/6df671d0-dd43-4cc0-9f1f-6714e7711ff4)
 
- ### **Tela YYYYY** :
-![Tela YYYYY]()
+:page_with_curl:**Pagina de Login**:
 
+![image](https://github.com/user-attachments/assets/fc364274-f310-47e2-9774-6f37b0fdf283)
 
+:page_with_curl:**Pagina de Cadastro**:
 
+![image](https://github.com/user-attachments/assets/d3420bb2-11dd-4cf7-a087-e968d87af9fa)
 
+:page_with_curl:**Pagina do Aluno**:
+
+![image](https://github.com/user-attachments/assets/77d631d9-16d0-476e-9112-65ab315b89aa)
+
+:page_with_curl:**Pagina do Professor**:
+
+![image](https://github.com/user-attachments/assets/02a1c8bf-da5a-48ac-bb2d-495b55e9c872)
+
+:page_with_curl:**Pagina do Atendente**:
+
+![image](https://github.com/user-attachments/assets/0be2c9a5-a514-4b9e-9476-99a94b7bfb67)
+
+:page_with_curl:**Pagina de Contato**:
+
+![image](https://github.com/user-attachments/assets/bf756d10-34e2-4f6b-9286-c3d32a3b7c01)
 
 
 ### :genie: Desenvolvedores:
